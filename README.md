@@ -13,10 +13,7 @@
 # Star History
 ## Star History
 
-<a href="https://star-history.com/#kaliiiiiiiiii/Selenium-Profiles&kaliiiiiiiiii/Selenium-Driverless&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kaliiiiiiiiii/Selenium-Profiles,kaliiiiiiiiii/Selenium-Driverless&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kaliiiiiiiiii/Selenium-Profiles,kaliiiiiiiiii/Selenium-Driverless&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kaliiiiiiiiii/Selenium-Profiles,kaliiiiiiiiii/Selenium-Driverless&type=Timeline" />
-  </picture>
-</a>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kaliiiiiiiiii/Selenium-Profiles,kaliiiiiiiiii/Selenium-Driverless&type=Timeline)](https://star-history.com/#kaliiiiiiiiii/Selenium-Profiles&kaliiiiiiiiii/Selenium-Driverless&Timeline)
+
