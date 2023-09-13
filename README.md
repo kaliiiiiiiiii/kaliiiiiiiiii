@@ -11,9 +11,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Star History
-## Star History
-
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kaliiiiiiiiii/Selenium-Profiles,kaliiiiiiiiii/Selenium-Driverless&type=Timeline)](https://star-history.com/#kaliiiiiiiiii/Selenium-Profiles&kaliiiiiiiiii/Selenium-Driverless&Timeline)
 
