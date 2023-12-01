@@ -23,6 +23,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kaliiiiiiiiii&show_icons=true" />
 </picture>
+
+---
+
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaliiiiiiiiii&theme=dark&hide_border=false"
@@ -34,6 +37,9 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaliiiiiiiiii&hide_border=false" />
 </picture>
+
+---
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliiiiiiiiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
